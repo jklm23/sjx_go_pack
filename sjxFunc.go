@@ -1,5 +1,5 @@
 package sjx_go_pack
 
-func sjxAdd(a, b int) int {
+func SjxAdd(a, b int) int {
 	return a + b
 }
